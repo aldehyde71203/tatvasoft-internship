@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\11_20240313164643_20240531120251.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\11_20240313164643_20240531120251.png"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\11_20240313164643_20240531120251_20240605164123.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\11_20240313164643_20240531120251_20240605164123.png"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\11_20240313164643_20240531120316.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\11_20240313164643_20240531120316.png"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\31_20240313164643_20240604112112.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\31_20240313164643_20240604112112.png"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\4_20240409101227_20240531113850.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\4_20240409101227_20240531113850.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\4_20240409101227_20240531113857.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\4_20240409101227_20240531113857.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\4_20240409101227_20240531113857_20240605195250.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\4_20240409101227_20240531113857_20240605195250.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\4_20240409101227_20240531113857_20240605195250_20240606131853.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\4_20240409101227_20240531113857_20240605195250_20240606131853.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\4_20240409101227_20240531113857_20240605195250_20240606131853_20240606155852.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\4_20240409101227_20240531113857_20240605195250_20240606131853_20240606155852.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419_20240531114545.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240409102419_20240531114545.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419_20240531114901.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240409102419_20240531114901.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419_20240531114901_20240605194909.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240409102419_20240531114901_20240605194909.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419_20240531114901_20240605194909_20240606143658.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240409102419_20240531114901_20240605194909_20240606143658.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419_20240531114957.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240409102419_20240531114957.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419_20240531115343.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240409102419_20240531115343.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419_20240531115441.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240409102419_20240531115441.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419_20240531115441_20240605195153.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240409102419_20240531115441_20240605195153.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419_20240531115546.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240409102419_20240531115546.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sanjay\\Desktop\\CIProject_WebAPI-main\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Demo0406.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Demo0406.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_API.props",
+      "PackagePath": "build\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_API.props",
+      "PackagePath": "buildMultiTargeting\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_API.props",
+      "PackagePath": "buildTransitive\\Web_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
